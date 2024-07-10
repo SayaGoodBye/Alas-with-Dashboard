@@ -23,7 +23,7 @@ class ManualConfig:
     > Daily > Hard > OpsiAshBeacon > OpsiAshAssist  > OpsiMonthBoss
     > Sos > EventSp > EventA > EventB > EventC > EventD
     > RaidDaily > CoalitionSp > WarArchives > MaritimeEscort
-    > Event > Event2 > Event3 > Raid > Coalition > Main > Main2 > Main3
+    > Event > Event2 > Raid > Coalition > Main > Main2 > Main3
     > OpsiMeowfficerFarming
     > GemsFarming
     > OpsiHazard1Leveling
@@ -321,6 +321,8 @@ class ManualConfig:
     OS_ACTION_POINT_BOX_USE = True
     OS_ACTION_POINT_PRESERVE = 0
     OS_CL1_YELLOW_COINS_PRESERVE = 100000
+    OS_NORMAL_YELLOW_COINS_PRESERVE = 35000
+    OS_NORMAL_PURPLE_COINS_PRESERVE = 100
 
     """
     module.os.globe_detection

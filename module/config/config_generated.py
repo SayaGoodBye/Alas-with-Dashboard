@@ -9,6 +9,69 @@ class GeneratedConfig:
     Auto generated configuration
     """
 
+    # Group `Oil`
+    Oil_Value = 0
+    Oil_Limit = 0
+    Oil_Color = '^000000'
+    Oil_Record = datetime.datetime(2020, 1, 1, 0, 0)
+
+    # Group `Coin`
+    Coin_Value = 0
+    Coin_Limit = 0
+    Coin_Color = '^FFAA33'
+    Coin_Record = datetime.datetime(2020, 1, 1, 0, 0)
+
+    # Group `Gem`
+    Gem_Value = 0
+    Gem_Color = '^FF3333'
+    Gem_Record = datetime.datetime(2020, 1, 1, 0, 0)
+
+    # Group `Pt`
+    Pt_Value = 0
+    Pt_Color = '^00BFFF'
+    Pt_Record = datetime.datetime(2020, 1, 1, 0, 0)
+
+    # Group `YellowCoin`
+    YellowCoin_Value = 0
+    YellowCoin_Color = '^FF8800'
+    YellowCoin_Record = datetime.datetime(2020, 1, 1, 0, 0)
+
+    # Group `PurpleCoin`
+    PurpleCoin_Value = 0
+    PurpleCoin_Color = '^7700BB'
+    PurpleCoin_Record = datetime.datetime(2020, 1, 1, 0, 0)
+
+    # Group `ActionPoint`
+    ActionPoint_Value = 0
+    ActionPoint_Total = 0
+    ActionPoint_Color = '^0000FF'
+    ActionPoint_Record = datetime.datetime(2020, 1, 1, 0, 0)
+
+    # Group `Merit`
+    Merit_Value = 0
+    Merit_Color = '^FFFF00'
+    Merit_Record = datetime.datetime(2020, 1, 1, 0, 0)
+
+    # Group `Cube`
+    Cube_Value = 0
+    Cube_Color = '^33FFFF'
+    Cube_Record = datetime.datetime(2020, 1, 1, 0, 0)
+
+    # Group `Core`
+    Core_Value = 0
+    Core_Color = '^AAAAAA'
+    Core_Record = datetime.datetime(2020, 1, 1, 0, 0)
+
+    # Group `Medal`
+    Medal_Value = 0
+    Medal_Color = '^FFDD00'
+    Medal_Record = datetime.datetime(2020, 1, 1, 0, 0)
+
+    # Group `GuildCoin`
+    GuildCoin_Value = 0
+    GuildCoin_Color = '^AAAAAA'
+    GuildCoin_Record = datetime.datetime(2020, 1, 1, 0, 0)
+
     # Group `Scheduler`
     Scheduler_Enable = False  # True, False
     Scheduler_NextRun = datetime.datetime(2020, 1, 1, 0, 0)
@@ -149,12 +212,9 @@ class GeneratedConfig:
 
     # Group `GemsFarming`
     GemsFarming_ChangeFlagship = 'ship'  # ship, ship_equip
-    GemsFarming_ChangeVanguard = 'ship'  # disabled, ship, ship_equip
-    GemsFarming_ALLowLowVanguardLevel = True
-    GemsFarming_FleetNumberInHardMode = 0  # 0, 1, 2
-    GemsFarming_StopIFAutoNotEnsured = True
     GemsFarming_CommonCV = 'any'  # any, langley, bogue, ranger, hermes
-    GemsFarming_CommonDD = 'any'  # any, aulick_or_foote, cassin_or_downes
+    GemsFarming_ChangeVanguard = 'ship'  # disabled, ship, ship_equip
+    GemsFarming_CommonDD = 'any'  # any, favourite, aulick_or_foote, cassin_or_downes, z20_or_z21
     GemsFarming_CommissionLimit = True
 
     # Group `EventGeneral`
@@ -181,6 +241,7 @@ class GeneratedConfig:
     MaritimeEscort_Enable = True
 
     # Group `Coalition`
+    Coalition_Mode = 'hard'  # easy, normal, hard, ex
     Coalition_Fleet = 'single'  # single, multi
 
     # Group `Commission`
@@ -349,7 +410,6 @@ class GeneratedConfig:
     Hard_HardFleet = 1  # 1, 2
 
     # Group `Exercise`
-    Exercise_DelayUntilHoursBeforeNextUpdate = 12  # 1, 2, 3, 4, 5, 12
     Exercise_OpponentChooseMode = 'max_exp'  # max_exp, easiest, leftmost, easiest_else_exp
     Exercise_OpponentTrial = 1
     Exercise_ExerciseStrategy = 'aggressive'  # aggressive, fri18, sat0, sat12, sat18, sun0, sun12, sun18
@@ -384,7 +444,6 @@ class GeneratedConfig:
 
     # Group `OpsiFleet`
     OpsiFleet_Fleet = 1  # 1, 2, 3, 4
-    OpsiFleet_FleetMode = 'combat_auto'  # combat_auto, combat_manual, stand_still_in_the_middle, hide_in_bottom_left
     OpsiFleet_Submarine = False
 
     # Group `OpsiExplore`
@@ -393,7 +452,8 @@ class GeneratedConfig:
     OpsiExplore_LastZone = 0
 
     # Group `OpsiShop`
-    OpsiShop_BuySupply = True
+    OpsiShop_PresetFilter = 'max_benefit_meta'  # max_benefit, max_benefit_meta, no_meta, all, custom
+    OpsiShop_CustomFilter = 'LoggerAbyssalT6 > LoggerAbyssalT5 > LoggerObscure > LoggerAbyssalT4 > ActionPoint > PurpleCoins\n> GearDesignPlanT3 > PlateRandomT4 > DevelopmentMaterialT3 > GearDesignPlanT2 > GearPart\n> OrdnanceTestingReportT3 > OrdnanceTestingReportT2 > DevelopmentMaterialT2 > OrdnanceTestingReportT1\n> METARedBook > CrystallizedHeatResistantSteel > NanoceramicAlloy > NeuroplasticProstheticArm > SupercavitationGenerator'
 
     # Group `OpsiVoucher`
     OpsiVoucher_Filter = 'LoggerAbyssal > LoggerObscure > Book > Coin > Fragment'
@@ -440,86 +500,6 @@ class GeneratedConfig:
 
     # Group `GameManager`
     GameManager_AutoRestart = True
-
-    # Group `GGHandler`
-    GGHandler_Enabled = False
-    GGHandler_GGMethod = 'u2'  # u2
-    GGHandler_RestartATX = False
-    GGHandler_GGPackageName = 'com.'
-    GGHandler_AutoRestartGG = False
-    GGHandler_RestartEverytime = True
-    GGHandler_RepushLua = True
-    GGHandler_GGMultiplyingFactor = 200
-    GGHandler_Timeout = 120
-    GGHandler_DisabledTask = 'disable_all_dangerous_task'  # disable_all_dangerous_task, disable_guild_and_dangerous, disable_exercise, enable_all
-
-    # Group `PowerLimit`
-    PowerLimit_Exercise = 16500
-    PowerLimit_Raid = 16500
-    PowerLimit_Ash = 16500
-
-    # Group `Oil`
-    Oil_Value = 0
-    Oil_Limit = 0
-    Oil_Color = '^000000'
-    Oil_Record = datetime.datetime(2020, 1, 1, 0, 0)
-
-    # Group `Coin`
-    Coin_Value = 0
-    Coin_Limit = 0
-    Coin_Color = '^000000'
-    Coin_Record = datetime.datetime(2020, 1, 1, 0, 0)
-
-    # Group `Gem`
-    Gem_Value = 0
-    Gem_Color = '^000000'
-    Gem_Record = datetime.datetime(2020, 1, 1, 0, 0)
-
-    # Group `Pt`
-    Pt_Value = 0
-    Pt_Color = '^000000'
-    Pt_Record = datetime.datetime(2020, 1, 1, 0, 0)
-
-    # Group `YellowCoin`
-    YellowCoin_Value = 0
-    YellowCoin_Color = '^000000'
-    YellowCoin_Record = datetime.datetime(2020, 1, 1, 0, 0)
-
-    # Group `PurpleCoin`
-    PurpleCoin_Value = 0
-    PurpleCoin_Color = '^000000'
-    PurpleCoin_Record = datetime.datetime(2020, 1, 1, 0, 0)
-
-    # Group `ActionPoint`
-    ActionPoint_Value = 0
-    ActionPoint_Total = 0
-    ActionPoint_Color = '^000000'
-    ActionPoint_Record = datetime.datetime(2020, 1, 1, 0, 0)
-
-    # Group `Merit`
-    Merit_Value = 0
-    Merit_Color = '^000000'
-    Merit_Record = datetime.datetime(2020, 1, 1, 0, 0)
-
-    # Group `Cube`
-    Cube_Value = 0
-    Cube_Color = '^000000'
-    Cube_Record = datetime.datetime(2020, 1, 1, 0, 0)
-
-    # Group `Core`
-    Core_Value = 0
-    Core_Color = '^000000'
-    Core_Record = datetime.datetime(2020, 1, 1, 0, 0)
-
-    # Group `Medal`
-    Medal_Value = 0
-    Medal_Color = '^000000'
-    Medal_Record = datetime.datetime(2020, 1, 1, 0, 0)
-
-    # Group `GuildCoin`
-    GuildCoin_Value = 0
-    GuildCoin_Color = '^000000'
-    GuildCoin_Record = datetime.datetime(2020, 1, 1, 0, 0)
 
     # Group `Storage`
     Storage_Storage = {}

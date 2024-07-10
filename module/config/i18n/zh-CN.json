@@ -74,16 +74,12 @@
       "name": "活动图-2",
       "help": ""
     },
-    "Event3": {
-      "name": "活动图-3",
-      "help": ""
-    },
     "Raid": {
       "name": "共斗活动",
       "help": ""
     },
     "Coalition": {
-      "name": "极地风暴",
+      "name": "童心学院",
       "help": ""
     },
     "MaritimeEscort": {
@@ -119,7 +115,7 @@
       "help": ""
     },
     "CoalitionSp": {
-      "name": "极地风暴每日SP",
+      "name": "童心学院每日SP",
       "help": ""
     },
     "Commission": {
@@ -265,6 +261,234 @@
     "GameManager": {
       "name": "游戏管理器(未完成)",
       "help": ""
+    }
+  },
+  "Oil": {
+    "_info": {
+      "name": "Oil._info.name",
+      "help": "Oil._info.help"
+    },
+    "Value": {
+      "name": "Oil.Value.name",
+      "help": "Oil.Value.help"
+    },
+    "Limit": {
+      "name": "Oil.Limit.name",
+      "help": "Oil.Limit.help"
+    },
+    "Color": {
+      "name": "Oil.Color.name",
+      "help": "Oil.Color.help"
+    },
+    "Record": {
+      "name": "Oil.Record.name",
+      "help": "Oil.Record.help"
+    }
+  },
+  "Coin": {
+    "_info": {
+      "name": "Coin._info.name",
+      "help": "Coin._info.help"
+    },
+    "Value": {
+      "name": "Coin.Value.name",
+      "help": "Coin.Value.help"
+    },
+    "Limit": {
+      "name": "Coin.Limit.name",
+      "help": "Coin.Limit.help"
+    },
+    "Color": {
+      "name": "Coin.Color.name",
+      "help": "Coin.Color.help"
+    },
+    "Record": {
+      "name": "Coin.Record.name",
+      "help": "Coin.Record.help"
+    }
+  },
+  "Gem": {
+    "_info": {
+      "name": "Gem._info.name",
+      "help": "Gem._info.help"
+    },
+    "Value": {
+      "name": "Gem.Value.name",
+      "help": "Gem.Value.help"
+    },
+    "Color": {
+      "name": "Gem.Color.name",
+      "help": "Gem.Color.help"
+    },
+    "Record": {
+      "name": "Gem.Record.name",
+      "help": "Gem.Record.help"
+    }
+  },
+  "Pt": {
+    "_info": {
+      "name": "Pt._info.name",
+      "help": "Pt._info.help"
+    },
+    "Value": {
+      "name": "Pt.Value.name",
+      "help": "Pt.Value.help"
+    },
+    "Color": {
+      "name": "Pt.Color.name",
+      "help": "Pt.Color.help"
+    },
+    "Record": {
+      "name": "Pt.Record.name",
+      "help": "Pt.Record.help"
+    }
+  },
+  "YellowCoin": {
+    "_info": {
+      "name": "YellowCoin._info.name",
+      "help": "YellowCoin._info.help"
+    },
+    "Value": {
+      "name": "YellowCoin.Value.name",
+      "help": "YellowCoin.Value.help"
+    },
+    "Color": {
+      "name": "YellowCoin.Color.name",
+      "help": "YellowCoin.Color.help"
+    },
+    "Record": {
+      "name": "YellowCoin.Record.name",
+      "help": "YellowCoin.Record.help"
+    }
+  },
+  "PurpleCoin": {
+    "_info": {
+      "name": "PurpleCoin._info.name",
+      "help": "PurpleCoin._info.help"
+    },
+    "Value": {
+      "name": "PurpleCoin.Value.name",
+      "help": "PurpleCoin.Value.help"
+    },
+    "Color": {
+      "name": "PurpleCoin.Color.name",
+      "help": "PurpleCoin.Color.help"
+    },
+    "Record": {
+      "name": "PurpleCoin.Record.name",
+      "help": "PurpleCoin.Record.help"
+    }
+  },
+  "ActionPoint": {
+    "_info": {
+      "name": "ActionPoint._info.name",
+      "help": "ActionPoint._info.help"
+    },
+    "Value": {
+      "name": "ActionPoint.Value.name",
+      "help": "ActionPoint.Value.help"
+    },
+    "Total": {
+      "name": "ActionPoint.Total.name",
+      "help": "ActionPoint.Total.help"
+    },
+    "Color": {
+      "name": "ActionPoint.Color.name",
+      "help": "ActionPoint.Color.help"
+    },
+    "Record": {
+      "name": "ActionPoint.Record.name",
+      "help": "ActionPoint.Record.help"
+    }
+  },
+  "Merit": {
+    "_info": {
+      "name": "Merit._info.name",
+      "help": "Merit._info.help"
+    },
+    "Value": {
+      "name": "Merit.Value.name",
+      "help": "Merit.Value.help"
+    },
+    "Color": {
+      "name": "Merit.Color.name",
+      "help": "Merit.Color.help"
+    },
+    "Record": {
+      "name": "Merit.Record.name",
+      "help": "Merit.Record.help"
+    }
+  },
+  "Cube": {
+    "_info": {
+      "name": "Cube._info.name",
+      "help": "Cube._info.help"
+    },
+    "Value": {
+      "name": "Cube.Value.name",
+      "help": "Cube.Value.help"
+    },
+    "Color": {
+      "name": "Cube.Color.name",
+      "help": "Cube.Color.help"
+    },
+    "Record": {
+      "name": "Cube.Record.name",
+      "help": "Cube.Record.help"
+    }
+  },
+  "Core": {
+    "_info": {
+      "name": "Core._info.name",
+      "help": "Core._info.help"
+    },
+    "Value": {
+      "name": "Core.Value.name",
+      "help": "Core.Value.help"
+    },
+    "Color": {
+      "name": "Core.Color.name",
+      "help": "Core.Color.help"
+    },
+    "Record": {
+      "name": "Core.Record.name",
+      "help": "Core.Record.help"
+    }
+  },
+  "Medal": {
+    "_info": {
+      "name": "Medal._info.name",
+      "help": "Medal._info.help"
+    },
+    "Value": {
+      "name": "Medal.Value.name",
+      "help": "Medal.Value.help"
+    },
+    "Color": {
+      "name": "Medal.Color.name",
+      "help": "Medal.Color.help"
+    },
+    "Record": {
+      "name": "Medal.Record.name",
+      "help": "Medal.Record.help"
+    }
+  },
+  "GuildCoin": {
+    "_info": {
+      "name": "GuildCoin._info.name",
+      "help": "GuildCoin._info.help"
+    },
+    "Value": {
+      "name": "GuildCoin.Value.name",
+      "help": "GuildCoin.Value.help"
+    },
+    "Color": {
+      "name": "GuildCoin.Color.name",
+      "help": "GuildCoin.Color.help"
+    },
+    "Record": {
+      "name": "GuildCoin.Record.name",
+      "help": "GuildCoin.Record.help"
     }
   },
   "Scheduler": {
@@ -664,6 +888,7 @@
       "help": "自动选择至最新的活动",
       "campaign_main": "主线图",
       "coalition_20230323": "极地风暴",
+      "coalition_20240627": "欢迎来到童心学院",
       "event_20200227_cn": "北境序曲",
       "event_20200312_cn": "复刻斯图尔特的硝烟",
       "event_20200326_cn": "微层混合",
@@ -711,7 +936,7 @@
       "event_20220324_cn": "复刻虚像构筑之塔",
       "event_20220407_tw": "蒼紅的迴響(復刻)",
       "event_20220414_cn": "复刻永夜幻光",
-      "event_20220428_cn": "虹彩的终幕曲",
+      "event_20220428_cn": "复刻虹彩的终幕曲",
       "event_20220526_cn": "泠誓光庭",
       "event_20220728_cn": "雄鹰的叙事歌",
       "event_20220818_cn": "远汇点作战",
@@ -1150,32 +1375,19 @@
     },
     "ChangeVanguard": {
       "name": "更换前排",
-      "help": "当前排红脸时更换前排，选择不更换则会强制红脸出击\n换前排通过找一艘心情不低于16、等级100的白鹰白皮驱逐完成，所以尽量保证有足够多的驱逐。国服以外则为等级70的白鹰白船驱逐。\n\n换装备只会更换正在装备中的栏位，即使是白装也会更换。如果指定了旗舰，则会更换全部5个装备，未指定旗舰只会更换设备。",
+      "help": "当前排红脸时更换前排，选择不更换则会强制红脸出击\n换前排通过找一艘心情不低于10、等级100的白鹰或铁血的白皮驱逐完成，所以尽量保证有足够多的驱逐。国服以外则为等级70的白鹰白船驱逐。\n\n换装备只会更换正在装备中的栏位，即使是白装也会更换。前排会更换全部5个装备。",
       "disabled": "不更换",
       "ship": "更换舰船",
       "ship_equip": "更换舰船 + 装备"
-    },
-    "ALLowLowVanguardLevel": {
-      "name": "可更换低等级前排",
-      "help": "倍率打开时，前排等级限制改为10以上即可。若为困难模式（如CD图）改为49级。"
-    },
-    "FleetNumberInHardMode": {
-      "name": "困难模式舰队编号",
-      "help": "困难模式（如活动图CD等）下需要更换的舰队编号。\n使用时请保证另一个舰队为6个125级，否则可能会有等级限制出错",
-      "0": "非困难模式",
-      "1": "第一舰队",
-      "2": "第二舰队"
-    },
-    "StopIFAutoNotEnsured": {
-      "name": "无法设置职能时停止任务",
-      "help": "无法设置舰队职能时，以以下方式停止任务以免跨队队伍出击，石油被大量消耗：\n若设置了错误推送则推送任务停止的消息并停止该任务。\n若没有设置错误推送，则直接停止Alas。"
     },
     "CommonDD": {
       "name": "指定前排",
       "help": "",
       "any": "任意",
+      "favourite": "仅常用",
       "aulick_or_foote": "奥利克或富特",
-      "cassin_or_downes": "卡辛或唐斯"
+      "cassin_or_downes": "卡辛或唐斯",
+      "z20_or_z21": "Z20或Z21"
     },
     "CommissionLimit": {
       "name": "防止紧急委托数量过多",
@@ -1273,6 +1485,14 @@
     "_info": {
       "name": "活动设置",
       "help": "出击前必须在游戏内手动配队"
+    },
+    "Mode": {
+      "name": "难度",
+      "help": "SP图需要使用活动每日SP运行",
+      "easy": "简单",
+      "normal": "普通",
+      "hard": "困难",
+      "ex": "EX"
     },
     "Fleet": {
       "name": "出击队伍",
@@ -2120,16 +2340,6 @@
       "name": "演习",
       "help": "打演习，血量过低时自动撤退"
     },
-    "DelayUntilHoursBeforeNextUpdate": {
-      "name": "推迟演习至下次更新次数前 X 小时",
-      "help": "",
-      "1": "1",
-      "2": "2",
-      "3": "3",
-      "4": "4",
-      "5": "5",
-      "12": "不推迟"
-    },
     "OpponentChooseMode": {
       "name": "对手选择模式",
       "help": "",
@@ -2286,14 +2496,6 @@
       "3": "3",
       "4": "4"
     },
-    "FleetMode": {
-      "name": "自律模式",
-      "help": "",
-      "combat_auto": "自律战斗",
-      "combat_manual": "手操",
-      "stand_still_in_the_middle": "中路站桩",
-      "hide_in_bottom_left": "躲左下角"
-    },
     "Submarine": {
       "name": "呼叫潜艇",
       "help": "开启后，运行间隔将增加至60分钟"
@@ -2320,11 +2522,20 @@
   "OpsiShop": {
     "_info": {
       "name": "大世界商店",
-      "help": "使用此功能前必须满足以下条件：\n- 通关大世界主线并完成模拟战+塞壬试验场\n- 启用大世界开荒任务或使用战役信息记录仪（5000油道具）"
+      "help": "使用此功能前必须满足以下条件：\n- 通关大世界主线并完成模拟战+塞壬试验场\n- 启用大世界开荒任务或使用战役信息记录仪（5000油道具）\n- 通关大世界主线后的下一个月，即港口商店变为新版商店后才可使用"
     },
-    "BuySupply": {
-      "name": "购买港口商店",
-      "help": "每月港口商店可购买商品是固定的，未购买的物品下次仍会出现，并阻塞高价值物品，因此需要购买全部"
+    "PresetFilter": {
+      "name": "港口商店过滤器",
+      "help": "一般默认即可，白票溢出建议选 \"高价值物品与META材料\"，萌新建议选 \"不购买META材料\"，这会买除了META材料以外的所有东西。\n高价值物品为行动力、坐标和金或者更高级別的商品；META材料为META通用战术教材和4种强化材料。",
+      "max_benefit": "高价值物品",
+      "max_benefit_meta": "高价值物品与META材料",
+      "no_meta": "不购买META材料",
+      "all": "全部",
+      "custom": "自定义"
+    },
+    "CustomFilter": {
+      "name": "自定义过滤器",
+      "help": "使用自定义过滤器需将 \"港口商店过滤器\" 设置为 \"自定义\"，并阅读 https://github.com/LmeSzinc/AzurLaneAutoScript/wiki/filter_string_cn"
     }
   },
   "OpsiVoucher": {
@@ -2503,303 +2714,6 @@
       "help": "游戏被强制结束后自动登录游戏"
     }
   },
-  "GGHandler": {
-    "_info": {
-      "name": "GG管理器",
-      "help": ""
-    },
-    "Enabled": {
-      "name": "启用该功能",
-      "help": "注意事项！若GG打开则应该启用该功能以达成防弹窗卡重启\n只能使用指定的lua，会自动推送至/sdcard/Notes/Multiplier.lua\n演习，共斗，Meta信标时会自动关闭倍率"
-    },
-    "GGMethod": {
-      "name": "GG操作方法",
-      "help": "推荐UiAutomator2\n截图由于公版更新已经不再可用\n红手指，vmos环境，以及蓝叠模拟器有概率无法使用。",
-      "u2": "UiAutomator2"
-    },
-    "RestartATX": {
-      "name": "重启ATX和U2",
-      "help": "重启游戏时重启ATX和U2。默认关闭。蓝叠和红手指等环境重启会报错。雷电易丢ATX服务，需要打开。"
-    },
-    "GGPackageName": {
-      "name": "GG包名",
-      "help": "GG安装后请自行前往/Android/Data文件夹查看包名，应是com.一串乱码"
-    },
-    "AutoRestartGG": {
-      "name": "启用倍率",
-      "help": "总开关，打开后才会开启倍率模式"
-    },
-    "RestartEverytime": {
-      "name": "每次启动Alas时重启",
-      "help": "打开以初始化倍率属性。如果你没有手动操作的坏习惯，可以关闭此选项。\n但是有坏习惯的人太多了，于是强制打开。"
-    },
-    "RepushLua": {
-      "name": "重新推送Lua",
-      "help": "有时推送时会失败，若出现此情况可尝试开关此选项。"
-    },
-    "GGMultiplyingFactor": {
-      "name": "倍率",
-      "help": "建议数值1-9999，没做数字检查，乱输后果自负"
-    },
-    "Timeout": {
-      "name": "启动时限(秒)",
-      "help": "启动GG的时间限制，若设备运行慢则需要适当调大"
-    },
-    "DisabledTask": {
-      "name": "禁用倍率的项目",
-      "help": "会关闭倍率的项目，建议敏感项目全关。打开的项目导致封号后果自负。\n敏感项目：共斗，Meta与演习\n注意：战力限制依旧生效，但大舰队没有这个玩意无法检测\n（虽然大舰队无所谓，只是一直有人问才加的）。",
-      "disable_all_dangerous_task": "禁用敏感项目",
-      "disable_guild_and_dangerous": "禁用大舰队，以及敏感项目",
-      "disable_exercise": "禁用演习",
-      "enable_all": "百无禁忌"
-    }
-  },
-  "PowerLimit": {
-    "_info": {
-      "name": "战力限制",
-      "help": "敏感项目前的最后一道保险\n若前排战力高于此值强制重启，并视为需要使用GG（打开GG开关以及GG自动重启倍率开关）"
-    },
-    "Exercise": {
-      "name": "演习",
-      "help": ""
-    },
-    "Raid": {
-      "name": "共斗",
-      "help": ""
-    },
-    "Ash": {
-      "name": "余烬信标",
-      "help": ""
-    }
-  },
-  "Oil": {
-    "_info": {
-      "name": "Oil._info.name",
-      "help": "Oil._info.help"
-    },
-    "Value": {
-      "name": "Oil.Value.name",
-      "help": "Oil.Value.help"
-    },
-    "Limit": {
-      "name": "Oil.Limit.name",
-      "help": "Oil.Limit.help"
-    },
-    "Color": {
-      "name": "Oil.Color.name",
-      "help": "Oil.Color.help"
-    },
-    "Record": {
-      "name": "Oil.Record.name",
-      "help": "Oil.Record.help"
-    }
-  },
-  "Coin": {
-    "_info": {
-      "name": "Coin._info.name",
-      "help": "Coin._info.help"
-    },
-    "Value": {
-      "name": "Coin.Value.name",
-      "help": "Coin.Value.help"
-    },
-    "Limit": {
-      "name": "Coin.Limit.name",
-      "help": "Coin.Limit.help"
-    },
-    "Color": {
-      "name": "Coin.Color.name",
-      "help": "Coin.Color.help"
-    },
-    "Record": {
-      "name": "Coin.Record.name",
-      "help": "Coin.Record.help"
-    }
-  },
-  "Gem": {
-    "_info": {
-      "name": "Gem._info.name",
-      "help": "Gem._info.help"
-    },
-    "Value": {
-      "name": "Gem.Value.name",
-      "help": "Gem.Value.help"
-    },
-    "Color": {
-      "name": "Gem.Color.name",
-      "help": "Gem.Color.help"
-    },
-    "Record": {
-      "name": "Gem.Record.name",
-      "help": "Gem.Record.help"
-    }
-  },
-  "Pt": {
-    "_info": {
-      "name": "Pt._info.name",
-      "help": "Pt._info.help"
-    },
-    "Value": {
-      "name": "Pt.Value.name",
-      "help": "Pt.Value.help"
-    },
-    "Color": {
-      "name": "Pt.Color.name",
-      "help": "Pt.Color.help"
-    },
-    "Record": {
-      "name": "Pt.Record.name",
-      "help": "Pt.Record.help"
-    }
-  },
-  "YellowCoin": {
-    "_info": {
-      "name": "YellowCoin._info.name",
-      "help": "YellowCoin._info.help"
-    },
-    "Value": {
-      "name": "YellowCoin.Value.name",
-      "help": "YellowCoin.Value.help"
-    },
-    "Color": {
-      "name": "YellowCoin.Color.name",
-      "help": "YellowCoin.Color.help"
-    },
-    "Record": {
-      "name": "YellowCoin.Record.name",
-      "help": "YellowCoin.Record.help"
-    }
-  },
-  "PurpleCoin": {
-    "_info": {
-      "name": "PurpleCoin._info.name",
-      "help": "PurpleCoin._info.help"
-    },
-    "Value": {
-      "name": "PurpleCoin.Value.name",
-      "help": "PurpleCoin.Value.help"
-    },
-    "Color": {
-      "name": "PurpleCoin.Color.name",
-      "help": "PurpleCoin.Color.help"
-    },
-    "Record": {
-      "name": "PurpleCoin.Record.name",
-      "help": "PurpleCoin.Record.help"
-    }
-  },
-  "ActionPoint": {
-    "_info": {
-      "name": "ActionPoint._info.name",
-      "help": "ActionPoint._info.help"
-    },
-    "Value": {
-      "name": "ActionPoint.Value.name",
-      "help": "ActionPoint.Value.help"
-    },
-    "Total": {
-      "name": "ActionPoint.Total.name",
-      "help": "ActionPoint.Total.help"
-    },
-    "Color": {
-      "name": "ActionPoint.Color.name",
-      "help": "ActionPoint.Color.help"
-    },
-    "Record": {
-      "name": "ActionPoint.Record.name",
-      "help": "ActionPoint.Record.help"
-    }
-  },
-  "Merit": {
-    "_info": {
-      "name": "Merit._info.name",
-      "help": "Merit._info.help"
-    },
-    "Value": {
-      "name": "Merit.Value.name",
-      "help": "Merit.Value.help"
-    },
-    "Color": {
-      "name": "Merit.Color.name",
-      "help": "Merit.Color.help"
-    },
-    "Record": {
-      "name": "Merit.Record.name",
-      "help": "Merit.Record.help"
-    }
-  },
-  "Cube": {
-    "_info": {
-      "name": "Cube._info.name",
-      "help": "Cube._info.help"
-    },
-    "Value": {
-      "name": "Cube.Value.name",
-      "help": "Cube.Value.help"
-    },
-    "Color": {
-      "name": "Cube.Color.name",
-      "help": "Cube.Color.help"
-    },
-    "Record": {
-      "name": "Cube.Record.name",
-      "help": "Cube.Record.help"
-    }
-  },
-  "Core": {
-    "_info": {
-      "name": "Core._info.name",
-      "help": "Core._info.help"
-    },
-    "Value": {
-      "name": "Core.Value.name",
-      "help": "Core.Value.help"
-    },
-    "Color": {
-      "name": "Core.Color.name",
-      "help": "Core.Color.help"
-    },
-    "Record": {
-      "name": "Core.Record.name",
-      "help": "Core.Record.help"
-    }
-  },
-  "Medal": {
-    "_info": {
-      "name": "Medal._info.name",
-      "help": "Medal._info.help"
-    },
-    "Value": {
-      "name": "Medal.Value.name",
-      "help": "Medal.Value.help"
-    },
-    "Color": {
-      "name": "Medal.Color.name",
-      "help": "Medal.Color.help"
-    },
-    "Record": {
-      "name": "Medal.Record.name",
-      "help": "Medal.Record.help"
-    }
-  },
-  "GuildCoin": {
-    "_info": {
-      "name": "GuildCoin._info.name",
-      "help": "GuildCoin._info.help"
-    },
-    "Value": {
-      "name": "GuildCoin.Value.name",
-      "help": "GuildCoin.Value.help"
-    },
-    "Color": {
-      "name": "GuildCoin.Color.name",
-      "help": "GuildCoin.Color.help"
-    },
-    "Record": {
-      "name": "GuildCoin.Record.name",
-      "help": "GuildCoin.Record.help"
-    }
-  },
   "Storage": {
     "_info": {
       "name": "任务状态",
@@ -2858,7 +2772,7 @@
     },
     "Overview": {
       "Scheduler": "调度器",
-      "Dashboard": "仪表盘",
+      "Dashboard": "Gui.Overview.Dashboard",
       "SecondsAgo": "秒前",
       "MinutesAgo": "分钟前",
       "HoursAgo": "小时前",

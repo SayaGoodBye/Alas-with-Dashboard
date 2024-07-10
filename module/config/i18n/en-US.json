@@ -74,16 +74,12 @@
       "name": "Event-2",
       "help": ""
     },
-    "Event3": {
-      "name": "Task.Event3.name",
-      "help": "Task.Event3.help"
-    },
     "Raid": {
       "name": "Raid",
       "help": ""
     },
     "Coalition": {
-      "name": "Frostfall",
+      "name": "Little Academy",
       "help": ""
     },
     "MaritimeEscort": {
@@ -119,7 +115,7 @@
       "help": ""
     },
     "CoalitionSp": {
-      "name": "Frostfall Daily SP",
+      "name": "Little Academy SP",
       "help": ""
     },
     "Commission": {
@@ -265,6 +261,234 @@
     "GameManager": {
       "name": "Game Manager(WIP)",
       "help": ""
+    }
+  },
+  "Oil": {
+    "_info": {
+      "name": "Oil._info.name",
+      "help": "Oil._info.help"
+    },
+    "Value": {
+      "name": "Oil.Value.name",
+      "help": "Oil.Value.help"
+    },
+    "Limit": {
+      "name": "Oil.Limit.name",
+      "help": "Oil.Limit.help"
+    },
+    "Color": {
+      "name": "Oil.Color.name",
+      "help": "Oil.Color.help"
+    },
+    "Record": {
+      "name": "Oil.Record.name",
+      "help": "Oil.Record.help"
+    }
+  },
+  "Coin": {
+    "_info": {
+      "name": "Coin._info.name",
+      "help": "Coin._info.help"
+    },
+    "Value": {
+      "name": "Coin.Value.name",
+      "help": "Coin.Value.help"
+    },
+    "Limit": {
+      "name": "Coin.Limit.name",
+      "help": "Coin.Limit.help"
+    },
+    "Color": {
+      "name": "Coin.Color.name",
+      "help": "Coin.Color.help"
+    },
+    "Record": {
+      "name": "Coin.Record.name",
+      "help": "Coin.Record.help"
+    }
+  },
+  "Gem": {
+    "_info": {
+      "name": "Gem._info.name",
+      "help": "Gem._info.help"
+    },
+    "Value": {
+      "name": "Gem.Value.name",
+      "help": "Gem.Value.help"
+    },
+    "Color": {
+      "name": "Gem.Color.name",
+      "help": "Gem.Color.help"
+    },
+    "Record": {
+      "name": "Gem.Record.name",
+      "help": "Gem.Record.help"
+    }
+  },
+  "Pt": {
+    "_info": {
+      "name": "Pt._info.name",
+      "help": "Pt._info.help"
+    },
+    "Value": {
+      "name": "Pt.Value.name",
+      "help": "Pt.Value.help"
+    },
+    "Color": {
+      "name": "Pt.Color.name",
+      "help": "Pt.Color.help"
+    },
+    "Record": {
+      "name": "Pt.Record.name",
+      "help": "Pt.Record.help"
+    }
+  },
+  "YellowCoin": {
+    "_info": {
+      "name": "YellowCoin._info.name",
+      "help": "YellowCoin._info.help"
+    },
+    "Value": {
+      "name": "YellowCoin.Value.name",
+      "help": "YellowCoin.Value.help"
+    },
+    "Color": {
+      "name": "YellowCoin.Color.name",
+      "help": "YellowCoin.Color.help"
+    },
+    "Record": {
+      "name": "YellowCoin.Record.name",
+      "help": "YellowCoin.Record.help"
+    }
+  },
+  "PurpleCoin": {
+    "_info": {
+      "name": "PurpleCoin._info.name",
+      "help": "PurpleCoin._info.help"
+    },
+    "Value": {
+      "name": "PurpleCoin.Value.name",
+      "help": "PurpleCoin.Value.help"
+    },
+    "Color": {
+      "name": "PurpleCoin.Color.name",
+      "help": "PurpleCoin.Color.help"
+    },
+    "Record": {
+      "name": "PurpleCoin.Record.name",
+      "help": "PurpleCoin.Record.help"
+    }
+  },
+  "ActionPoint": {
+    "_info": {
+      "name": "ActionPoint._info.name",
+      "help": "ActionPoint._info.help"
+    },
+    "Value": {
+      "name": "ActionPoint.Value.name",
+      "help": "ActionPoint.Value.help"
+    },
+    "Total": {
+      "name": "ActionPoint.Total.name",
+      "help": "ActionPoint.Total.help"
+    },
+    "Color": {
+      "name": "ActionPoint.Color.name",
+      "help": "ActionPoint.Color.help"
+    },
+    "Record": {
+      "name": "ActionPoint.Record.name",
+      "help": "ActionPoint.Record.help"
+    }
+  },
+  "Merit": {
+    "_info": {
+      "name": "Merit._info.name",
+      "help": "Merit._info.help"
+    },
+    "Value": {
+      "name": "Merit.Value.name",
+      "help": "Merit.Value.help"
+    },
+    "Color": {
+      "name": "Merit.Color.name",
+      "help": "Merit.Color.help"
+    },
+    "Record": {
+      "name": "Merit.Record.name",
+      "help": "Merit.Record.help"
+    }
+  },
+  "Cube": {
+    "_info": {
+      "name": "Cube._info.name",
+      "help": "Cube._info.help"
+    },
+    "Value": {
+      "name": "Cube.Value.name",
+      "help": "Cube.Value.help"
+    },
+    "Color": {
+      "name": "Cube.Color.name",
+      "help": "Cube.Color.help"
+    },
+    "Record": {
+      "name": "Cube.Record.name",
+      "help": "Cube.Record.help"
+    }
+  },
+  "Core": {
+    "_info": {
+      "name": "Core._info.name",
+      "help": "Core._info.help"
+    },
+    "Value": {
+      "name": "Core.Value.name",
+      "help": "Core.Value.help"
+    },
+    "Color": {
+      "name": "Core.Color.name",
+      "help": "Core.Color.help"
+    },
+    "Record": {
+      "name": "Core.Record.name",
+      "help": "Core.Record.help"
+    }
+  },
+  "Medal": {
+    "_info": {
+      "name": "Medal._info.name",
+      "help": "Medal._info.help"
+    },
+    "Value": {
+      "name": "Medal.Value.name",
+      "help": "Medal.Value.help"
+    },
+    "Color": {
+      "name": "Medal.Color.name",
+      "help": "Medal.Color.help"
+    },
+    "Record": {
+      "name": "Medal.Record.name",
+      "help": "Medal.Record.help"
+    }
+  },
+  "GuildCoin": {
+    "_info": {
+      "name": "GuildCoin._info.name",
+      "help": "GuildCoin._info.help"
+    },
+    "Value": {
+      "name": "GuildCoin.Value.name",
+      "help": "GuildCoin.Value.help"
+    },
+    "Color": {
+      "name": "GuildCoin.Color.name",
+      "help": "GuildCoin.Color.help"
+    },
+    "Record": {
+      "name": "GuildCoin.Record.name",
+      "help": "GuildCoin.Record.help"
     }
   },
   "Scheduler": {
@@ -664,6 +888,7 @@
       "help": "Automatically selects to the latest event",
       "campaign_main": "campaign_main",
       "coalition_20230323": "Frostfall",
+      "coalition_20240627": "Welcome to Little Academy",
       "event_20200227_cn": "Northern Overture",
       "event_20200312_cn": "The Solomon Ranger Rerun",
       "event_20200326_cn": "Microlayer Medley",
@@ -711,7 +936,7 @@
       "event_20220324_cn": "Virtual Tower Rerun",
       "event_20220407_tw": "蒼紅的迴響(復刻)",
       "event_20220414_cn": "Aurora Noctis Rerun",
-      "event_20220428_cn": "Rondo at Rainbows End",
+      "event_20220428_cn": "Rondo at Rainbows End Rerun",
       "event_20220526_cn": "Pledge of the Radiant Court",
       "event_20220728_cn": "Aquilifers Ballade",
       "event_20220818_cn": "Operation Convergence",
@@ -1150,32 +1375,19 @@
     },
     "ChangeVanguard": {
       "name": "Change Vanguard",
-      "help": "Change vanguard if flagship or vanguard are emotion exhausted.If you choose not to change, your fleet will ignore the low emotion warning and continue combat.\nSwitch out to new level 100(70) common vanguard after current flagship has reached level 32+ (Only CN players'0 limit break ship can reach level 100)\n\nThe vanguard's equipment is replaced when being switched out by first recording the current setup. Only populated equipment slots will be replaced.",
+      "help": "Change vanguard if flagship or vanguard are emotion exhausted. If you choose not to change, your fleet will ignore the low emotion warning and continue combat.\nSwitch out to new level 100(70) common vanguard from eagle or ironblood after current flagship has reached level 32+ (Only CN players'0 limit break ship can reach level 100)\n\nThe vanguard's equipment is replaced when being switched out by first recording the current setup. Only populated equipment slots will be replaced.",
       "disabled": "Don't Change",
       "ship": "Change Ship",
       "ship_equip": "Change Ship + Gears"
-    },
-    "ALLowLowVanguardLevel": {
-      "name": "ALLow Low Vanguard Level",
-      "help": "Destroyers over level 10 will now be used, 49 for Event CD"
-    },
-    "FleetNumberInHardMode": {
-      "name": "Fleet number used in hard mode",
-      "help": "Fleet number used in hard mode like Event C/D",
-      "0": "Not a hard mode",
-      "1": "Fleet 1",
-      "2": "Fleet 2"
-    },
-    "StopIFAutoNotEnsured": {
-      "name": "GemsFarming.StopIFAutoNotEnsured.name",
-      "help": "GemsFarming.StopIFAutoNotEnsured.help"
     },
     "CommonDD": {
       "name": "Flagship Common DD Preference",
       "help": "",
       "any": "any",
-      "aulick_or_foote": "aulick or foote",
-      "cassin_or_downes": "cassin or downes"
+      "favourite": "Favourite Ships Only",
+      "aulick_or_foote": "Aulick or Foote",
+      "cassin_or_downes": "Cassin or Downes",
+      "z20_or_z21": "Z20 or Z21"
     },
     "CommissionLimit": {
       "name": "Prevent Too Many Urgent Commissions",
@@ -1273,6 +1485,14 @@
     "_info": {
       "name": "Event Settings",
       "help": "Fleets must be prepared manually in game before running"
+    },
+    "Mode": {
+      "name": "Mode",
+      "help": "SP needs to use event daily SP to run",
+      "easy": "Easy",
+      "normal": "Normal",
+      "hard": "Hard",
+      "ex": "EX"
     },
     "Fleet": {
       "name": "Fleet",
@@ -2120,16 +2340,6 @@
       "name": "Exercise Settings",
       "help": "Runs exercise and automatically retreats when sum HP volume is low"
     },
-    "DelayUntilHoursBeforeNextUpdate": {
-      "name": "Exercise.DelayUntilHoursBeforeNextUpdate.name",
-      "help": "Exercise.DelayUntilHoursBeforeNextUpdate.help",
-      "1": "1",
-      "2": "2",
-      "3": "3",
-      "4": "4",
-      "5": "5",
-      "12": "12"
-    },
     "OpponentChooseMode": {
       "name": "Opponent Choose Mode",
       "help": "",
@@ -2286,14 +2496,6 @@
       "3": "3",
       "4": "4"
     },
-    "FleetMode": {
-      "name": "Fleet Mode",
-      "help": "",
-      "combat_auto": "combat_auto",
-      "combat_manual": "combat_manual",
-      "stand_still_in_the_middle": "stand_still_in_the_middle",
-      "hide_in_bottom_left": "hide_in_bottom_left"
-    },
     "Submarine": {
       "name": "Call Submarine",
       "help": "If enabled, interval increases from 30 to 60 minutes instead"
@@ -2320,11 +2522,20 @@
   "OpsiShop": {
     "_info": {
       "name": "OpSi Shop Settings",
-      "help": "Completes OpSi daily activities\nThe following must be satisfied:\n- OpSi story and practice battles must be complete\n- Task OpSi Explore enabled or consuming 5000 oil for special radar in OpSi voucher shop"
+      "help": "Completes OpSi daily activities\nThe following must be satisfied:\n- OpSi story and practice battles must be complete\n- Task OpSi Explore enabled or consuming 5000 oil for special radar in OpSi voucher shop\nAvailable only in the next month after clearing OpSi story, i.e., after the port shop becomes a new version of the shop"
     },
-    "BuySupply": {
-      "name": "Buy From Port Shops",
-      "help": "Buy all items from port shops\nShop inventory consists of a fixed pool that is reset monthly, items not bought during a cycle has the chance of re-appearing and blocking preferable high value items"
+    "PresetFilter": {
+      "name": "OpSi Shop Filter",
+      "help": "Generally does not need to be modified. Use \"High value items and META material\"` if Voucher Coins spilled or \"Without META materials\" if you are newcomer.\nHigh value items include ActionPoint, Logger and T4 or higher items; META materials include METABook and META enhance materials.",
+      "max_benefit": "High value items",
+      "max_benefit_meta": "High value items and META materials",
+      "no_meta": "Not to buy META materials",
+      "all": "All",
+      "custom": "custom"
+    },
+    "CustomFilter": {
+      "name": "Custom Research Priority",
+      "help": "To use your own filter, set \"OpSi Shop Filter Select\" to \"custom\". All options have been defined at  <https://github.com/LmeSzinc/AzurLaneAutoScript/wiki/filter_string_en>"
     }
   },
   "OpsiVoucher": {
@@ -2501,303 +2712,6 @@
     "AutoRestart": {
       "name": "Automatic Login",
       "help": "Log back into the game when the game has been ended."
-    }
-  },
-  "GGHandler": {
-    "_info": {
-      "name": "GG Handler",
-      "help": ""
-    },
-    "Enabled": {
-      "name": "Enabled",
-      "help": ""
-    },
-    "GGMethod": {
-      "name": "Control Method",
-      "help": "Screenshot is slow and has some bugs, only for environments that not support UiAutomator",
-      "u2": "UiAutomator"
-    },
-    "RestartATX": {
-      "name": "GGHandler.RestartATX.name",
-      "help": "GGHandler.RestartATX.help"
-    },
-    "GGPackageName": {
-      "name": "GG Package Name",
-      "help": "In /Android/data/com.xxxxxxx. (xxxxxxx means a lot of random characters)"
-    },
-    "AutoRestartGG": {
-      "name": "Auto Restart GG",
-      "help": "Start GG before tasks"
-    },
-    "RestartEverytime": {
-      "name": "Restart Everytime Alas starts",
-      "help": "For sake of safety"
-    },
-    "RepushLua": {
-      "name": "GGHandler.RepushLua.name",
-      "help": "GGHandler.RepushLua.help"
-    },
-    "GGMultiplyingFactor": {
-      "name": "GG Multiplying Factor",
-      "help": "1 - 9999 Recommended"
-    },
-    "Timeout": {
-      "name": "GGHandler.Timeout.name",
-      "help": "GGHandler.Timeout.help"
-    },
-    "DisabledTask": {
-      "name": "Disabled Tasks",
-      "help": "",
-      "disable_all_dangerous_task": "Disable_all_dangerous_task",
-      "disable_guild_and_dangerous": "disable_guild_and_dangerous",
-      "disable_exercise": "Disable_exercise",
-      "enable_all": "Enable_all"
-    }
-  },
-  "PowerLimit": {
-    "_info": {
-      "name": "Power Limit",
-      "help": "Power over this will cause a restart and enable GG in config"
-    },
-    "Exercise": {
-      "name": "Exercise",
-      "help": ""
-    },
-    "Raid": {
-      "name": "Raid",
-      "help": ""
-    },
-    "Ash": {
-      "name": "Ash",
-      "help": ""
-    }
-  },
-  "Oil": {
-    "_info": {
-      "name": "Oil._info.name",
-      "help": "Oil._info.help"
-    },
-    "Value": {
-      "name": "Oil.Value.name",
-      "help": "Oil.Value.help"
-    },
-    "Limit": {
-      "name": "Oil.Limit.name",
-      "help": "Oil.Limit.help"
-    },
-    "Color": {
-      "name": "Oil.Color.name",
-      "help": "Oil.Color.help"
-    },
-    "Record": {
-      "name": "Oil.Record.name",
-      "help": "Oil.Record.help"
-    }
-  },
-  "Coin": {
-    "_info": {
-      "name": "Coin._info.name",
-      "help": "Coin._info.help"
-    },
-    "Value": {
-      "name": "Coin.Value.name",
-      "help": "Coin.Value.help"
-    },
-    "Limit": {
-      "name": "Coin.Limit.name",
-      "help": "Coin.Limit.help"
-    },
-    "Color": {
-      "name": "Coin.Color.name",
-      "help": "Coin.Color.help"
-    },
-    "Record": {
-      "name": "Coin.Record.name",
-      "help": "Coin.Record.help"
-    }
-  },
-  "Gem": {
-    "_info": {
-      "name": "Gem._info.name",
-      "help": "Gem._info.help"
-    },
-    "Value": {
-      "name": "Gem.Value.name",
-      "help": "Gem.Value.help"
-    },
-    "Color": {
-      "name": "Gem.Color.name",
-      "help": "Gem.Color.help"
-    },
-    "Record": {
-      "name": "Gem.Record.name",
-      "help": "Gem.Record.help"
-    }
-  },
-  "Pt": {
-    "_info": {
-      "name": "Pt._info.name",
-      "help": "Pt._info.help"
-    },
-    "Value": {
-      "name": "Pt.Value.name",
-      "help": "Pt.Value.help"
-    },
-    "Color": {
-      "name": "Pt.Color.name",
-      "help": "Pt.Color.help"
-    },
-    "Record": {
-      "name": "Pt.Record.name",
-      "help": "Pt.Record.help"
-    }
-  },
-  "YellowCoin": {
-    "_info": {
-      "name": "YellowCoin._info.name",
-      "help": "YellowCoin._info.help"
-    },
-    "Value": {
-      "name": "YellowCoin.Value.name",
-      "help": "YellowCoin.Value.help"
-    },
-    "Color": {
-      "name": "YellowCoin.Color.name",
-      "help": "YellowCoin.Color.help"
-    },
-    "Record": {
-      "name": "YellowCoin.Record.name",
-      "help": "YellowCoin.Record.help"
-    }
-  },
-  "PurpleCoin": {
-    "_info": {
-      "name": "PurpleCoin._info.name",
-      "help": "PurpleCoin._info.help"
-    },
-    "Value": {
-      "name": "PurpleCoin.Value.name",
-      "help": "PurpleCoin.Value.help"
-    },
-    "Color": {
-      "name": "PurpleCoin.Color.name",
-      "help": "PurpleCoin.Color.help"
-    },
-    "Record": {
-      "name": "PurpleCoin.Record.name",
-      "help": "PurpleCoin.Record.help"
-    }
-  },
-  "ActionPoint": {
-    "_info": {
-      "name": "ActionPoint._info.name",
-      "help": "ActionPoint._info.help"
-    },
-    "Value": {
-      "name": "ActionPoint.Value.name",
-      "help": "ActionPoint.Value.help"
-    },
-    "Total": {
-      "name": "ActionPoint.Total.name",
-      "help": "ActionPoint.Total.help"
-    },
-    "Color": {
-      "name": "ActionPoint.Color.name",
-      "help": "ActionPoint.Color.help"
-    },
-    "Record": {
-      "name": "ActionPoint.Record.name",
-      "help": "ActionPoint.Record.help"
-    }
-  },
-  "Merit": {
-    "_info": {
-      "name": "Merit._info.name",
-      "help": "Merit._info.help"
-    },
-    "Value": {
-      "name": "Merit.Value.name",
-      "help": "Merit.Value.help"
-    },
-    "Color": {
-      "name": "Merit.Color.name",
-      "help": "Merit.Color.help"
-    },
-    "Record": {
-      "name": "Merit.Record.name",
-      "help": "Merit.Record.help"
-    }
-  },
-  "Cube": {
-    "_info": {
-      "name": "Cube._info.name",
-      "help": "Cube._info.help"
-    },
-    "Value": {
-      "name": "Cube.Value.name",
-      "help": "Cube.Value.help"
-    },
-    "Color": {
-      "name": "Cube.Color.name",
-      "help": "Cube.Color.help"
-    },
-    "Record": {
-      "name": "Cube.Record.name",
-      "help": "Cube.Record.help"
-    }
-  },
-  "Core": {
-    "_info": {
-      "name": "Core._info.name",
-      "help": "Core._info.help"
-    },
-    "Value": {
-      "name": "Core.Value.name",
-      "help": "Core.Value.help"
-    },
-    "Color": {
-      "name": "Core.Color.name",
-      "help": "Core.Color.help"
-    },
-    "Record": {
-      "name": "Core.Record.name",
-      "help": "Core.Record.help"
-    }
-  },
-  "Medal": {
-    "_info": {
-      "name": "Medal._info.name",
-      "help": "Medal._info.help"
-    },
-    "Value": {
-      "name": "Medal.Value.name",
-      "help": "Medal.Value.help"
-    },
-    "Color": {
-      "name": "Medal.Color.name",
-      "help": "Medal.Color.help"
-    },
-    "Record": {
-      "name": "Medal.Record.name",
-      "help": "Medal.Record.help"
-    }
-  },
-  "GuildCoin": {
-    "_info": {
-      "name": "GuildCoin._info.name",
-      "help": "GuildCoin._info.help"
-    },
-    "Value": {
-      "name": "GuildCoin.Value.name",
-      "help": "GuildCoin.Value.help"
-    },
-    "Color": {
-      "name": "GuildCoin.Color.name",
-      "help": "GuildCoin.Color.help"
-    },
-    "Record": {
-      "name": "GuildCoin.Record.name",
-      "help": "GuildCoin.Record.help"
     }
   },
   "Storage": {
